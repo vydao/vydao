@@ -16,6 +16,7 @@
   <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
 </div>
 
+![github contribution grid snake animation](https://github.com/vydao/vydao/blob/output/github-contribution-grid-snake-dark.svg)
 <!--
 **vydao/vydao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
